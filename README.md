@@ -6,7 +6,7 @@ My Statistical Question for the project was Do tax cuts to corporate create jobs
 Australia, Austria, Belgium, Canada, Switzerland, Chile, Czech Republic, Germany, Estonia, Denmark, Spain, Finland, France, Greece, United Kingdom, Hungary, Ireland, Iceland, Israel, Italy, Japan, Korea, Lithuania, Luxembourg, Latvia, Mexico, Netherlands, Norway, New Zealand, Poland, Turkey, USA, Slovenia, Slovakia.  
   
 **Data Sources**  
-All the economic indicator data comes from [OECD.org](https://stats.oecd.org/)  
+Economic indicator: [OECD.org](https://stats.oecd.org/)  
    
    
 **Modeling Appraoch**   
